@@ -2,8 +2,12 @@
 
 ## Simple Linear Regression
 
+This simple linear regression predicts admissions based on GRE Scores.
+Dataset used: Admission_Predict_Ver1.1.csv
 ![GRE_predictor Linear Regression](https://user-images.githubusercontent.com/37297153/152690586-8cfe8cc5-cd8d-4666-b02a-a8035f72ecbd.PNG)
 
+
+## Incremental_Extreme Machine Learning (I-ELM)
 For classification problem in I-ELM use cifar_10 dataset:
 https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
