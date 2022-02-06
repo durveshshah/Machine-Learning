@@ -2,8 +2,9 @@
 
 ## Simple Linear Regression
 
-This simple linear regression predicts admissions based on GRE Scores.
-Dataset used: Admission_Predict_Ver1.1.csv
+This simple linear regression predicts admissions based on GRE Scores.<br/>
+<b>Dataset used: Admission_Predict_Ver1.1</b>
+
 ![GRE_predictor Linear Regression](https://user-images.githubusercontent.com/37297153/152690586-8cfe8cc5-cd8d-4666-b02a-a8035f72ecbd.PNG)
 
 
